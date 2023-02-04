@@ -44,13 +44,13 @@ Remember, creating a routine isn't about becoming a robot, it's about being prod
 
 Contrary to popular belief, asking for help is not weak and neither is tapping into your support system during a job search. Trust me, you're going to need all the help you can get. Here is a list of groups I recommend you join:
 
-* Baddies in Tech
+* [Baddies in Tech](https://www.baddiesintech.com/)
     
-* WomenWhoCode
+* [WomenWhoCode](https://www.womenwhocode.com/)
     
-* SheSharp
+* [SheSharp](https://www.shesharp.co/)
     
-* FrontEnd Mentor
+* [FrontEnd Mentor](https://www.frontendmentor.io/)
     
 
 Remember, sharing your journey and hearing others' stories can be just as freeing as a good episode of House of Dragons (or whichever show you binge-watch). Now, let's move on to the fourth tip.
@@ -76,11 +76,11 @@ Go ahead, crack open that bottle of sparkling juice(or whatever drink you like),
 
 I know, you’re burnt out from the cover letter and resume writing marathon, but don't give up yet! Adding a new skill to your arsenal could be the game-changer you need in this job search. With technology always advancing, it's important to keep up and stand out from the crowd. Here are some sites I recommend for upskilling:
 
-* Wilco
+* [Wilco](https://www.trywilco.com/)
     
-* EddieHub(I know it's an open source community but it's a great platform for tinkering with programming languages you wanted to tinker with)
+* [EddieHub](https://github.com/EddieHubCommunity)(I know it's an open source community but it's a great platform for tinkering with programming languages you wanted to tinker with)
     
-* Wesbos
+* [Wesbos](https://wesbos.com/courses)
     
 
 Don’t be afraid to add some new skills to your toolkit. You never know, it might just be the factor that lands you your dream job.
