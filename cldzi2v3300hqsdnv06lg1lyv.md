@@ -29,8 +29,8 @@ That's why it's so important to pay attention to user feedback when it comes to 
 
 ## Tip 2: Emphasize Culture Over Tools
 
-Up until now, we've talked about the importance of user feedback and making sure your users have a platform to share their thoughts. But what if I told you that there's a deeper, more powerful way to boost your DevOps productivity? A way that goes beyond the tools and technology, and delves into the heart and soul of DevOps itself? Yes, you guessed it, it's the culture! Even though tools do help with making the DevOps process easier, it's ultimately, you, the developer (or whatever tech role you have) that streamlines the process.  
-  
+Up until now, we've talked about the importance of user feedback and making sure your users have a platform to share their thoughts. But what if I told you that there's a deeper, more powerful way to boost your DevOps productivity? A way that goes beyond the tools and technology, and delves into the heart and soul of DevOps itself? Yes, you guessed it, it's the culture! Even though tools do help with making the DevOps process easier, it's ultimately, you, the developer (or whatever tech role you have) that streamlines the process.
+
 In my experience with Learn, Team Build(a wonderful community led by James Q. Quick), we take a hands-on approach to promoting a culture of productivity in DevOps. Our leaders hold regular live coding sessions with members on Discord where we work together to improve the server bot and share our coding victories in "Wins of the Week." By making culture a priority and giving members opportunities to collaborate and learn from each other, we ensure that our DevOps processes are always moving forward and improving.
 
 With these strategies in place, your DevOps team will be whipping up code faster than a short-order cook at a busy diner. So, let's move on to the next tip and keep that productivity train rolling!
@@ -47,7 +47,7 @@ Think the glitch in your weather app is just a small issue? Ehh, not quite. That
 
 Alright, you think that you've got DevOps all figured out, but I have to be honest, you don't. Tech is always growing and changing at a fast pace, and if you don't attempt to learn the latest methods, tools, or processes, you're going to be left behind. Here are some ways you can implement continuous learning in your DevOps:
 
-* Attend hackathons or do coding challenges: Not you get to learn new skills, you also get a chance to meet other coders and expand your network. Case and point, check out my post on attending the SheBuilds hackathon.
+* Attend hackathons or do coding challenges: Not you get to learn new skills, you also get a chance to meet other coders and expand your network. Case and point, check out [my post](https://hashnode.com/post/clcues1dk020w64nv7qu65uk3) on attending the SheBuilds hackathon.
     
 * **Read tech newsletters:** Like I always say, A read a day keeps the bugs away! 😊 I highly recommend [Pointer.io](https://www.pointer.io/) to stay updated on tech trends.
     
