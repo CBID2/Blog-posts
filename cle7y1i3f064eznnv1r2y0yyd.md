@@ -54,13 +54,13 @@ It was like being in the sun when I finally got it to work! But let's not get lo
 
 ### Future Improvements
 
-Now that the app is up and running, my mind is spinning like a tornado with ideas on how to make it even better. First, I want to add the five-day forecast section so users can plan their outfits and avoid any unexpected rain showers. And let's be honest, nobody wants to be caught in a downpour wearing their best clothes to their friend's wedding.
+Now that the app is up and running(click [here](https://www.shecodes.io/workshops/shecodes-plus-0a53b5fe-7c61-4aa6-9b22-f305bb004b91/projects/1460870) to view), my mind is spinning like a tornado with ideas on how to make it even better. First, I want to add the five-day forecast section so users can plan their outfits and avoid any unexpected rain showers. And let's be honest, nobody wants to be caught in a downpour wearing their best clothes to their friend's wedding.
 
 Next, I want to make the app more mobile-friendly for all those tiny screens out there(Chrissy Codes does not endorse phone screen discrimination). Finally, I want to add a daily motivational quote that pops up when users search for the weather in a city because everyone needs encouraging words in the morning. Man, I can’t wait to see those ideas come to life! 🤩
 
 ### Conclusion
 
-Phew, building this app was quite a ride! 😮‍💨 I learned a lot about design and patience and discovered that JavaScript and APIs can be as unpredictable as the weather. Nonetheless, I loved every bit of it, and I want everyone out there to experience the same thrill. If you're a womxn who wants to step up your coding skills, I highly recommend [SheCodes Plus](https://www.shecodes.io/workshops?coupon_name=SheCodesFriend). And if you need a cheerleader, feel free to follow me on Hashnode and my other socials via [Linkfree](https://linkfree.eddiehub.io/CBID2). Let's take on some coding storms together! 😊  
+Phew, building this app was quite a ride! 😮‍💨 I learned a lot about design and patience and discovered that JavaScript and APIs can be as unpredictable as the weather. Nonetheless, I loved every bit of it, and I want everyone out there to experience the same thrill. If you're a womxn who wants to step up your coding skills, I highly recommend [SheCodes Plus](https://www.shecodes.io/workshops?coupon_name=SheCodesFriend). And if you need a cheerleader, feel free to follow me on Hashnode and my other socials via [Linkfree](https://linkfree.eddiehub.io/CBID2). Let's take on some coding storms together! 😊
 
 ![Looney Tunes ending ](https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif align="center")
 
