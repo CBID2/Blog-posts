@@ -22,31 +22,7 @@ But even then, I thought things would get easier. Little did I know, I was still
 
 If I had to pick a challenge I had to face in building this app, it would be implementing JavaScript and API. I did not have much experience with JavaScript and API before SheCodes Plus, so learning the language again felt like being in a thunderstorm.
 
-One specific challenge I faced was creating the function and integrating the API to make the city and weather icon change based on the user's choice.
-
-**Before**
-
-```javascript
-function search(city){
-  let apiKey = "e450bc345a80a08ada69fd5c714d871d";
-  let apiURL = `https://api.openweathermap.org/data/2.5/weather?q={city}&appid=${apiKey}&units=metric`;
-  axios.get(apiURL).then(displayTemperature);
-}
-```
-
-It took me a while to get it working properly, but I eventually overcame it by breaking it down into smaller steps and seeking help from the technical assistants on SheCodes' Slack community and coding comrades from other communities.
-
-**After**
-
-```javascript
-function search(city){
-  let apiKey = "e450bc345a80a08ada69fd5c714d871d";
-  let apiURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
-  axios.get(apiURL).then(displayTemperature);
-}
-```
-
-*All the API key variable needed was a dollar sign!* 🤦🏽‍♀️
+One specific challenge I faced was creating the function and integrating the API to make the city and weather icon change based on the user's choice. It took me a while to get it working properly, but I eventually overcame it by breaking it down into smaller steps and seeking help from the technical assistants on SheCodes' Slack community and coding comrades from other communities.
 
 It was like being in the sun when I finally got it to work! But let's not get lost in the past, we've got bigger fish to fry with this project. Time to put my coding skills to the test and take this weather app to the next level!
 
@@ -54,7 +30,7 @@ It was like being in the sun when I finally got it to work! But let's not get lo
 
 ### Future Improvements
 
-Now that the app is up and running(click [here](https://www.shecodes.io/workshops/shecodes-plus-0a53b5fe-7c61-4aa6-9b22-f305bb004b91/projects/1460870) to view), my mind is spinning like a tornado with ideas on how to make it even better. First, I want to add the five-day forecast section so users can plan their outfits and avoid any unexpected rain showers. And let's be honest, nobody wants to be caught in a downpour wearing their best clothes to their friend's wedding.
+Now that the app is up and running, my mind is spinning like a tornado with ideas on how to make it even better. First, I want to add the five-day forecast section so users can plan their outfits and avoid any unexpected rain showers. And let's be honest, nobody wants to be caught in a downpour wearing their best clothes to their friend's wedding.
 
 Next, I want to make the app more mobile-friendly for all those tiny screens out there(Chrissy Codes does not endorse phone screen discrimination). Finally, I want to add a daily motivational quote that pops up when users search for the weather in a city because everyone needs encouraging words in the morning. Man, I can’t wait to see those ideas come to life! 🤩
 
