@@ -26,7 +26,7 @@ One specific challenge I faced was creating the function and integrating the API
 
 It was like being in the sun when I finally got it to work! But let's not get lost in the past, we've got bigger fish to fry with this project. Time to put my coding skills to the test and take this weather app to the next level!
 
-![The phrase "Level Up!" shows in different colors](https://media.giphy.com/media/xNUyxiJoTYiWWyNMJw/giphy.gif align="center")
+![Level Up is cloned three times](https://media.giphy.com/media/L0eLbQSACTr10Voj83/giphy.gif align="center")
 
 ### Future Improvements
 
@@ -44,7 +44,7 @@ Phew, building this app was quite a ride! 😮‍💨 I learned a lot about desi
 
 3 2 1 Waiting GIF [by Funimation](https://media.giphy.com/media/CH8pZqw2t0G7m/giphy.gif)
 
-Level Up Logo GIF by ASUS Republic of Gamers Deutchsland
+Level Up Glu GIF by [Ground Level Up](https://media.giphy.com/media/L0eLbQSACTr10Voj83/giphy.gif)
 
 Looney Tunes Nothing to See Here GIF by [Heck Yeah Reactions](https://heckyeahreactiongifs.tumblr.com/post/102176386240)
 
