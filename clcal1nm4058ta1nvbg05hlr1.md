@@ -22,7 +22,7 @@ You get to meet people from different backgrounds, and more often than not, they
 
 Collaborating with others on these projects will help you learn how to work with others and give feedback. When I made my first contribution to [EddieHub’s Linkfree project](https://github.com/EddieHubCommunity/LinkFree), it felt good seeing my Pull Request merge into the project. As an Open Source beginner who does not work in the tech industry, seeing my contributions to the project’s repository made me feel like my idea mattered.
 
-If you want some tips on how to collaborate on Open Source Projects, check out Marit van Dijk’s [blog post](https://medium.com/@mlvandijk/collaborating-on-open-source-645231f4ecef).  
+If you want some tips on how to collaborate on Open Source Projects, check out Marit van Dijk’s [blog post](https://medium.com/@mlvandijk/collaborating-on-open-source-645231f4ecef).
 
 # **Reason #2: Show off your expertise.**
 
@@ -30,7 +30,7 @@ Contrary to popular belief, you don’t have to be a coder to participate in Ope
 
 When I first saw [Acessibleforall’s project](https://github.com/AccessibleForAll), I noticed that the YouTube section in their Resources repository was missing video links, so I added some to that area and wrote brief descriptions about them. I also would read through the repo’s documentation to see if there are grammatical errors or descriptions that could use more detail.
 
-If you want some on how to find Open source projects that suit you, check out Jade Wang’s [blog post](https://opensource.com/life/16/1/8-ways-contribute-open-source-without-writing-code).  
+If you want some on how to find Open source projects that suit you, check out [this post](https://hashnode.com/post/clciz988g098fbgnv17mjbc6l).
 
 # **Reason #3: Learn new skills**
 
@@ -51,7 +51,7 @@ Through my experience contributing to the documentation in EddieHub and Accessib
 
 *The possibilities are endless!*
 
-If you want some tips on how to use Open Source Projects to learn new skills, check out Uma Chellappa’s [blog post](https://suyati.com/blog/author/uma-chellappa/). 
+If you want some tips on how to use Open Source Projects to learn new skills, check out Uma Chellappa’s [blog post](https://suyati.com/blog/author/uma-chellappa/).
 
 # **Reason #4: Communication**
 
@@ -65,15 +65,15 @@ I know. I know. Participating in Open Source projects can be scary, but the peop
 
 ![](https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif align="center")
 
-Thanks for reading this post! If you find it helpful, give it a like and share it with your friends.  Also, follow me on Hashnode or click on the Subscribe button on top for more updates.  Happy Coding! 😊
+Thanks for reading this post! If you find it helpful, give it a like and share it with your friends.  Also, follow me on Hashnode and [Linkfree](https://linkfree.eddiehub.io/CBID2) for more updates.  Happy Coding! 😊
 
-*This post was originally published on* [*Women Who Code's blog by Christine Belzie*](https://www.womenwhocode.com/blog/top-4-reasons-to-do-open-source-projects)
+*This post was originally published on* [Women Who Code's blog by me, Christine Belzie](https://www.womenwhocode.com/blog/top-4-reasons-to-do-open-source-projects)
 
 # **Credits**
 
 Homer Simpson Options GIF by [Simpsonworld](https://media.giphy.com/media/xT5LMyV3wwx20bNKtq/giphy.gif)
 
-Millie Bobby Brown Reaction GIF by [Converse](https://giphy.com/gifs/converse-3o8dFn5CXJlCV9ZEsg) 
+Millie Bobby Brown Reaction GIF by [Converse](https://giphy.com/gifs/converse-3o8dFn5CXJlCV9ZEsg)
 
 Oh Yeah Yes GIF by [Mauro Gatti](https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif)
 
