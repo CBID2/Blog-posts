@@ -87,4 +87,6 @@ GitHub Pull Request Diagram by [Crunchify](https://crunchify.com/how-to-fork-git
 
 Level Up Glu GIF by [Ground Level Up](https://media.giphy.com/media/L0eLbQSACTr10Voj83/giphy.gif)
 
+Looney Tunes Nothing to see here GIF by [Heck Yeah Reactions](https://giphy.com/gifs/the-end-thats-all-folks-lD76yTC5zxZPG)
+
 Willow Smith GIF by [Red Table Talk](https://media.giphy.com/media/dZd0fvvUdMpz5DNW9A/giphy.gif)
