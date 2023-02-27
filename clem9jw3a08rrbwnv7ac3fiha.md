@@ -20,7 +20,7 @@ If I had to pick an accomplishment for this challenge, it would be my growth as 
 
 ### Conclusion
 
-Overall, I had a blast with this challenge. I mean, who doesn't love a good dose of coding-induced headaches and caffeine-fueled all-nighters? But in all seriousness, this challenge taught me a lot about writing, coding, and finding humor in the midst of struggles. And who knows, maybe next time I'll snag that elusive gold badge. Or maybe I'll just stick to my trusty bronze badge and use it as a makeshift mirror to admire my writing skills. Either way, if you're in need of a coding buddy or just want to see me win (or lose) at the next challenge, be sure to follow me on Hashnode and connect with me on Linkfree. Until next time, happy coding and keep on writing! 😊
+Overall, I had a blast with this challenge. I mean, who doesn't love a good dose of coding-induced headaches and caffeine-fueled all-nighters? But in all seriousness, this challenge taught me a lot about writing, coding, and finding humor in the midst of struggles. And who knows, maybe next time I'll snag that elusive gold badge. Or maybe I'll just stick to my trusty bronze badge and use it as a makeshift mirror to admire my writing skills. Either way, if you're in need of a coding buddy or just want to see me win (or lose) at the next challenge, be sure to follow me on Hashnode and connect with me on [Linkfree](https://linkfree.eddiehub.io/CBID2). Until next time, happy coding and keep on writing! 😊
 
 ![Looney Tunes ending ](https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif align="center")
 
