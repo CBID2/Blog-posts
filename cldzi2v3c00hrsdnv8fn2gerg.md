@@ -2,7 +2,7 @@
 
 ### It’s hard being the new kid
 
-Ladies and gents, let me tell you, as a woman, being the new kid in coding spaces can be rough. I mean, imagine being one of the few ladies in a sea of dudes who are coding circles around you and rolling their eyes whenever you offer suggestions on how to improve the community. Phew! But luckily for me, I've stumbled upon the utopias of coding communities - Baddies in Tech and Women Who Code. These two communities are like the Amazons and The Birds of Prey of coding spaces(shout out Marvel and DC Comic fans), cool, confident, and kind women who empower each other and make coding fun. So, grab some snacks (or any food of choice, I won't judge), sit back, and enjoy the ride as I take you through my experiences with these two awesome communities.
+Ladies and gents, let me tell you, being the new kid in coding spaces can be rough, especially if you're a woman. I mean, imagine being one of the few ladies in a sea of dudes who are coding circles around you and rolling their eyes whenever you offer suggestions on how to improve the community. Phew! But luckily for me, I've stumbled upon the utopias of coding communities - Baddies in Tech and Women Who Code. These two communities are like the Amazons and The Birds of Prey of coding spaces(shout out Marvel and DC Comic fans), cool, confident, and kind women who empower each other and make coding fun. So, grab some snacks (or any food of choice, I won't judge), sit back, and enjoy the ride as I take you through my experiences with these two awesome communities.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676000804689/2ae298cb-3449-412e-b25b-0bf84a703c85.gif align="center")
 
