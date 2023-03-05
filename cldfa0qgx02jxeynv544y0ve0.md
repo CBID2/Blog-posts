@@ -1,4 +1,12 @@
-# Double the Fun: My 2nd Try at Hashnode's 2Articles1Week Challenge
+---
+title: "Double the Fun: My 2nd Try at Hashnode's 2Articles1Week Challenge"
+datePublished: Sat Jan 28 2023 01:30:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldfa0qgx02jxeynv544y0ve0
+slug: double-the-fun-my-2nd-try-at-hashnodes-2articles1week-challenge
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674872258171/f25ea3dc-d69b-48cb-863c-318fdc777876.png
+tags: writing, reflection, 2articles1week
+
+---
 
 ## I’m Back!
 
