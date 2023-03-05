@@ -1,4 +1,12 @@
-# 5 Tips for Staying Productive in Open Source Projects
+---
+title: "5 Tips for Staying Productive in Open Source Projects"
+datePublished: Fri Jan 20 2023 15:25:42 GMT+0000 (Coordinated Universal Time)
+cuid: cld4obt64036j3pnvhiyzgsjm
+slug: 5-tips-for-staying-productive-in-open-source-projects
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674193942366/4a92899e-dfb7-4381-89c2-e7b2a8c6ae6c.png
+tags: opensource, 2articles1week, wemakedevs
+
+---
 
 Congratulations! 🎊 You have made it through steep digital mountains to find an open-source project and cut through webs and webs of project files to pick your contributions. But before you can bring out the confetti, there is another opponent you will fight….procrastination. As fun as open-source contributions are, they can be pretty tricky to do as most open-source projects have tight deadlines, which tempts you to get lazy, especially when you also have other commitments like school and social life, and doing other things the average human does like eating. But fear not procrastinators, I will be sharing 5 tips and tricks for staying productive while making open source contributions. From setting realistic expectations to taking regular breaks, these tips will help you stay focused and get things done. So stop scrolling through Instagram(or whatever social media you use) and let's get started! 😊
 
