@@ -1,4 +1,12 @@
-# Bounce Back: 5 Tips for Staying Motivated After a Job Loss
+---
+title: "Bounce Back: 5 Tips for Staying Motivated After a Job Loss"
+datePublished: Sat Feb 04 2023 02:00:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldpb69p100acxrnv0y37eluv
+slug: bounce-back-5-tips-for-staying-motivated-after-a-job-loss
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675471988599/56d3be74-efc5-40fc-834c-3d804724b8e7.png
+tags: technology, motivation, jobsearch
+
+---
 
 ## Let’s Go!
 
