@@ -1,4 +1,12 @@
-# Sunny with a Chance of Coding
+---
+title: "Sunny with a Chance of Coding"
+datePublished: Fri Feb 17 2023 03:00:38 GMT+0000 (Coordinated Universal Time)
+cuid: cle7y1i3f064eznnv1r2y0yyd
+slug: sunny-with-a-chance-of-coding
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676521457644/ccf46f81-192f-43c4-8c75-10f61c509897.png
+tags: projects, 2articles1week, womenwhocode
+
+---
 
 ### My Confession
 
