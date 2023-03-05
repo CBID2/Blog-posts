@@ -1,4 +1,12 @@
-# 2in1 Writing Challenge: A Week of Words and Wins
+---
+title: "2in1 Writing Challenge: A Week of Words and Wins"
+datePublished: Thu Jan 12 2023 11:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: clcszc6ss06r0ugnvg0y017a7
+slug: 2in1-writing-challenge-a-week-of-words-and-wins
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673336353196/f6caa673-1691-4a81-9f13-36df14981668.png
+tags: blogging, reflection, 2articles1week
+
+---
 
 # What A Week
 
