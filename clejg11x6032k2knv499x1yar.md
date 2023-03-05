@@ -1,4 +1,12 @@
-# Confessions of a Code Bug Hunter
+---
+title: "Confessions of a Code Bug Hunter"
+datePublished: Sat Feb 25 2023 04:09:39 GMT+0000 (Coordinated Universal Time)
+cuid: clejg11x6032k2knv499x1yar
+slug: confessions-of-a-code-bug-hunter
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677286555157/23beb719-9595-4e7b-8f51-534ba4a4b5e3.png
+tags: humor, reflection, 2articles1week, debuggingfeb
+
+---
 
 ### My Epiphany
 
