@@ -1,4 +1,12 @@
-# 5th time's the charm: My  journey with Hashnode's 2Articles1Week challenge
+---
+title: "5th time's the charm: My  journey with Hashnode's 2Articles1Week challenge"
+datePublished: Mon Feb 27 2023 03:31:39 GMT+0000 (Coordinated Universal Time)
+cuid: clem9jw3a08rrbwnv7ac3fiha
+slug: 5th-times-the-charm-my-journey-with-hashnodes-2articles1week-challenge
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677464620573/ae47b8ba-ac56-45f4-9668-6c3181e7b92d.png
+tags: reflection, 2articles1week
+
+---
 
 ### I have a confession…
 
