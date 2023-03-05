@@ -1,4 +1,12 @@
-# How to Make Your Issues Requests Come True
+---
+title: "How to Make Your Issues Requests Come True"
+datePublished: Wed Feb 22 2023 04:16:39 GMT+0000 (Coordinated Universal Time)
+cuid: clef5yi4e05xqhynvgtud1q0l
+slug: how-to-make-your-issues-requests-come-true
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677035651201/a9a6c925-1d68-4ee8-a861-06ff576f52d0.png
+tags: opensource, tips-and-tricks, beginners, 2articles1week, codenewbies
+
+---
 
 ### You made it! 😊
 
