@@ -1,4 +1,12 @@
-# Top 4 Reasons To Do Open Source Projects
+---
+title: "Top 4 Reasons To Do Open Source Projects"
+datePublished: Fri Dec 30 2022 14:00:44 GMT+0000 (Coordinated Universal Time)
+cuid: clcal1nm4058ta1nvbg05hlr1
+slug: top-4-reasons-to-do-open-source-projects
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672278281955/6ff88bb3-0e52-42d0-9c2b-681295416029.png
+tags: opensource, codenewbies
+
+---
 
 For the past few months, I have been immersing myself in the magical world of coding(well, mostly HTML & CSS. I will make you mine, JavaScript! Mark my words!). Just when I thought my thirst for knowledge was quenched by listening to Matt Delac compare CSS to the paint on houses in SheCodes or being a huge Scrimba fan, I was introduced to a whole new fountain…
 
