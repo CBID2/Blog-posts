@@ -1,4 +1,12 @@
-# Four Times the Fun: A Recap of my Latest 2Articles1Week Attempt
+---
+title: "Four Times the Fun: A Recap of my Latest 2Articles1Week Attempt"
+datePublished: Sun Feb 19 2023 00:58:39 GMT+0000 (Coordinated Universal Time)
+cuid: cleaokbeq0551jcnvemkahk4x
+slug: four-times-the-fun-a-recap-of-my-latest-2articles1week-attempt
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676767702420/9aa4b167-66ce-442c-861b-6ff6b26422ec.png
+tags: web-development, opensource, reflection, 2articles1week
+
+---
 
 ### I'm Back!!!
 
