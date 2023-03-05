@@ -1,4 +1,13 @@
-# From Lone Wolf to Pack Member: My Journey from Solo Coding to Collaboration
+---
+title: "From Lone Wolf to Pack Member: My Journey from Solo Coding to Collaboration"
+seoTitle: "solo coding to collaboration"
+datePublished: Wed Dec 28 2022 14:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: clc7q5wd500q9lmnv6iho7bh8
+slug: from-lone-wolf-to-pack-member-my-journey-from-solo-coding-to-collaboration
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672098920940/2bb5874c-98ee-4245-b8fa-399b6b626d08.png
+tags: coding, collaboration, wemakedevs
+
+---
 
 ## Why Collaborate?
 
