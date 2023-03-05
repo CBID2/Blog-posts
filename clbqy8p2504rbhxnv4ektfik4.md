@@ -1,4 +1,13 @@
-# Dev Retro 2022: How I overcame imposter syndrome and found my way into coding
+---
+title: "Dev Retro 2022: How I overcame imposter syndrome and found my way into coding"
+seoTitle: "How I overcame imposter syndrome and found my way into coding"
+datePublished: Fri Dec 16 2022 20:14:44 GMT+0000 (Coordinated Universal Time)
+cuid: clbqy8p2504rbhxnv4ektfik4
+slug: dev-retro-2022-how-i-overcame-imposter-syndrome-and-found-my-way-into-coding
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671170440175/GTJvmN9D7.png
+tags: first-article, womenwhotech, devretro2022
+
+---
 
 If I had to pick a quote that describes my coding journey, it would be the famous saying, “You won’t know until you try”. I’m not going to lie to you, starting a coding journey can be a daunting and intimidating experience, especially for women since these spaces are dominated by men. To all of the women who want to learn how to code but feel like there’s no place for them, no judgment here. I had those feelings once too. Here’s my story on how I overcame them.
 
