@@ -1,4 +1,12 @@
-# 4 Tips for Finding Your First Open Source Project
+---
+title: "4 Tips for Finding Your First Open Source Project"
+datePublished: Thu Jan 05 2023 11:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: clciz988g098fbgnv17mjbc6l
+slug: 4-tips-for-finding-your-first-open-source-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672796954488/994061b4-b2cf-423f-b13a-7cd17836f473.png
+tags: opensource, beginner, 2articles1week
+
+---
 
 Alright, you made it to the second post!  🎉🎊(If you need a refresher or have no idea what Open Source projects are, check out the previous post [here)](https://chrissycodes.hashnode.dev/top-4-reasons-to-do-open-source-projects).
 
