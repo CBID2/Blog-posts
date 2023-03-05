@@ -1,4 +1,12 @@
-# Beyond Code: Creative Contributions to Open Source
+---
+title: "Beyond Code: Creative Contributions to Open Source"
+datePublished: Fri Jan 06 2023 11:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: clckep2td02mo8jnvcc96gwmj
+slug: beyond-code-creative-contributions-to-open-source
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672986503653/c5692eb3-40da-4fcb-9f89-ace5bd5e2ef5.png
+tags: opensource, beginner, 2articles1week, wemakedevs
+
+---
 
 ## You Made it!
 
