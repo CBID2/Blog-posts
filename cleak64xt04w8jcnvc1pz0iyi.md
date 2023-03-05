@@ -1,4 +1,12 @@
-# How To Make A Pull Request Without Pulling Your Hair Out
+---
+title: "How To Make A Pull Request Without Pulling Your Hair Out"
+datePublished: Sat Feb 18 2023 22:55:39 GMT+0000 (Coordinated Universal Time)
+cuid: cleak64xt04w8jcnvc1pz0iyi
+slug: how-to-make-a-pull-request-without-pulling-your-hair-out
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676687542374/58e445f2-111a-4c3e-a8eb-886c7e6a565d.png
+tags: github, opensource, beginner, 2articles1week
+
+---
 
 ### Welcome Back!!!
 
