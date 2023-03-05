@@ -3,6 +3,7 @@ title: "Frontend Fun: Meet the Fantastic Four Dev Tools for Open Source Contribu
 datePublished: Sun Mar 05 2023 03:21:39 GMT+0000 (Coordinated Universal Time)
 cuid: cleutu5l4000nw2nve6fffavb
 slug: frontend-fun-meet-the-fantastic-four-dev-tools-for-open-source-contributions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677990826502/63d856b1-9af4-4656-94f1-0f6a5d9a9383.png
 tags: opensource, beginners, 2articles1week, wemakedevs
 
 ---
