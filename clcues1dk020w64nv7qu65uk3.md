@@ -1,4 +1,12 @@
-# Laughter, Learning, and a lot of Coding: The Dos and Don'ts of Team Hackathons
+---
+title: "Laughter, Learning, and a lot of Coding: The Dos and Don'ts of Team Hackathons"
+datePublished: Fri Jan 13 2023 11:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: clcues1dk020w64nv7qu65uk3
+slug: laughter-learning-and-a-lot-of-coding-the-dos-and-donts-of-team-hackathons
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673488061914/f6dc2857-a0e3-417d-bd61-7ac89927618a.png
+tags: hackathon, opensource, beginner, tips
+
+---
 
 
 
