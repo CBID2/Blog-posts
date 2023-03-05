@@ -1,4 +1,12 @@
-# My 2 Articles 1 Week Journey: Round Three and Still Standing
+---
+title: "My 2 Articles 1 Week Journey: Round Three and Still Standing"
+datePublished: Mon Feb 13 2023 04:25:39 GMT+0000 (Coordinated Universal Time)
+cuid: cle2bbeom01oxkxnv9xn5927s
+slug: my-2-articles-1-week-journey-round-three-and-still-standing
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676260172774/edda3b55-5c4b-4348-a013-9ae7818667a9.png
+tags: writing, reflection, 2articles1week
+
+---
 
 ## I'm Back!
 
