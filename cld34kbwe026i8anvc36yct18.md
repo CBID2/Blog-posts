@@ -1,4 +1,12 @@
-# ChatGPT: My Digital Buddy, Warts & All
+---
+title: "ChatGPT: My Digital Buddy, Warts & All"
+datePublished: Thu Jan 19 2023 13:24:41 GMT+0000 (Coordinated Universal Time)
+cuid: cld34kbwe026i8anvc36yct18
+slug: chatgpt-my-digital-buddy-warts-all
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674088681631/971c740d-8063-4fa2-bacb-6106e8ab04b8.png
+tags: blogging, reflection, 2articles1week, chatgpt
+
+---
 
 ***Disclaimer: I'm not a spokesperson for OpenAI or OpenChat. This post is about my experiences with ChatGPT, nothing more, nothing less.***
 
