@@ -1,4 +1,12 @@
-# DevOps' Secret Sauce: 5 Uncommon Productivity Tips
+---
+title: "DevOps' Secret Sauce: 5 Uncommon Productivity Tips"
+datePublished: Sat Feb 11 2023 05:11:39 GMT+0000 (Coordinated Universal Time)
+cuid: cldzi2v3300hqsdnv06lg1lyv
+slug: devops-secret-sauce-5-uncommon-productivity-tips
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676091892098/a3e37837-baad-4815-842c-4b09c2ab659e.png
+tags: devops, 2articles1week, cocodeblogs
+
+---
 
 ## What is DevOps?
 
