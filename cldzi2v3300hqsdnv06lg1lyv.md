@@ -8,6 +8,21 @@ tags: devops, 2articles1week, cocodeblogs
 
 ---
 
+## News  
+
+![](https://media.giphy.com/media/VvnzGGzspxJuDfIqry/giphy.gif align="center")
+
+![](https://giphy.com/clips/eternalfamilytv-eternal-family-tv-99ers-swmUmc9sZGOs5sQaFu align="center")
+
+This post has been selected as one of the winners of CoCode's February 2023's Blog-A-Thon! 🥳
+
+%[https://twitter.com/thecocode/status/1631138224692396033?s=20] 
+
+Thank you CoCode and Hashnode for providing opportunities for tech writers from all walks of life to share their experiences! 😊  
+Now let's back get to our regularly scheduled program!  
+
+![Camera crew from Rocko's modern life is counting down](https://media.giphy.com/media/26FeWTM16icjYEmeA/giphy.gif align="center")
+
 ## What is DevOps?
 
 Have you ever stumbled upon a DevOps joke on Tech Twitter and thought, "What the heck is DevOps?" According to [GitLab](https://about.gitlab.com/topics/devops/),
@@ -68,7 +83,7 @@ Remember learning only stops when you stop. Alright, we're at the final tip, let
 
 ## Tip 5: Encourage Cross-Functional Collaboration
 
-Picture your DevOps team as a sports team, where each member brings unique skills, expertise, and plays a specific role to contribute to the overall success of the team. But to really hit it out of the park, it's crucial for everyone to come together and collaborate effectively. That's where cross-functional collaboration comes in! By utilizing the strengths of each member, you can boost productivity, drive innovation, and achieve great results. So, let's take a closer look at some ways to implement cross-functional collaboration in DevOps:
+Picture your DevOps team as a sports team where each member brings their skills and knowledge to help the team succeed. But to really hit it out of the park, it's crucial for everyone to come together and collaborate effectively. That's where cross-functional collaboration comes in! By utilizing the strengths of each member, you can boost productivity, drive innovation, and achieve great results. So, let's take a closer look at some ways to implement cross-functional collaboration in DevOps:
 
 * **Add your comments on an issue raised in the product's repository:** Maybe the navigation section on the product's website needs more tabs? Or the design of the weather app needs darker colors? Whatever idea you have in that brain of yours, don't hesitate to share your ideas, you'll never know, they could be the very thing that helps solve the issue.
     
@@ -89,6 +104,8 @@ Yay, you made it past the final level! 🥳 DevOps can be tricky, but by using s
 
 High Five Teamwork GIF by [Abi Bock](https://media.giphy.com/media/dSetNZo2AJfptAk9hp/giphy.gif)
 
+Found Footage Video GIF by [Eternal Family](https://media.giphy.com/media/VvnzGGzspxJuDfIqry/giphy.gif)
+
 Happy Let's Do it GIF by [HBO Max](https://media.giphy.com/media/y9XCVEKx02Q3tyHSD5/giphy.gif)
 
 Level Up Gamer GIF by [Root-Users](https://media.giphy.com/media/g4zphWz4eiPsYMB0Gv/giphy.gif)
@@ -96,5 +113,7 @@ Level Up Gamer GIF by [Root-Users](https://media.giphy.com/media/g4zphWz4eiPsYMB
 Lets Go Car GIF by [Honda](https://media.giphy.com/media/RleLlzY0MVxY7N5xX7/giphy.gif)
 
 Lets Go Reaction GIF by [BET](https://media.giphy.com/media/XDSBGwnjvTpoZGJhxY/giphy.gif)
+
+Rockos Modern Life Nicksplat GIF by [NickRewind](https://media.giphy.com/media/26FeWTM16icjYEmeA/giphy.gif)
 
 Thank You Next Move on GIF by [Jimmy Arca](https://media.giphy.com/media/8Yam7VjgXfG77Pkebq/giphy.gif)
