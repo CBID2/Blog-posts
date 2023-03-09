@@ -3,6 +3,7 @@ title: "Finding My Tribe: My Adventures with Baddies in Tech and Women Who Code"
 datePublished: Sat Feb 11 2023 05:11:39 GMT+0000 (Coordinated Universal Time)
 cuid: cldzi2v3c00hrsdnv8fn2gerg
 slug: finding-my-tribe-my-adventures-with-baddies-in-tech-and-women-who-code
+canonical: https://chrissycodes.hashnode.dev/finding-my-tribe-my-adventures-with-baddies-in-tech-and-women-who-code
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675833785427/5019e767-e58a-4a5a-972e-f9d0ad2c3e15.png
 tags: community, 2articles1week, womenwhocode, wemakedevs
 
