@@ -29,13 +29,13 @@ I was finding myself feeling frustrated at not understanding some of the content
 
 ## Contributor at Real Station October 2022-Present
 
-This is the place where I fell in love with open source projects. I first learned about this community through a colleague from Scrimba’s Discord community. [Real Station](https://github.com/jeffreycharters/station) is a repository where open source beginners can practice their skills by adding cool features to the community’s website. For example, I noticed that the resources in the Helpful Links section of the website were missing tutorials that could be easily understood by coding newbies who are not familiar with tech jargon, so I raised this issue to one of the Maintainers(basically means someone who supervises a repository), presented my suggestion via a Pull Request, and got it approved.
+This is the place where I fell in love with open source projects. I first learned about this community through a colleague from Scrimba’s Discord community. [Real Station](https://github.com/jeffreycharters/station) is a repository where open source beginners can practice their skills by adding cool features to the community’s website. For example, I noticed that the resources in the website's Helpful Links section were missing tutorials that could be easily understood by people who are new to coding, so I raised this issue to one of the Maintainers(basically means someone who supervises a repository), presented my suggestion via a Pull Request, and got it approved.
 
 ![](https://lh6.googleusercontent.com/FaVb49hb-DKXGDc8vGqx2gjb3sVoQ9SeRwmQLZP47rlRiSSVk1scQ39Bld5Uvny8Xu1Acga0tzPCaVFKqhOkxG3WRfjYY66JqjWF6Ge6_S3IYVviX2-Lsi-2hi2FtLb6SDF12gCrThWvM_JfvHQYccCYgfnMfLJXjurgdzeWQwMVqeb7iORnsP2C6IDVvMLa align="left")
 
 *See the one in the red circle? Yup, that’s mine! 😊*
 
-Through this community, I found that I improved on:
+Through this community, I improved on:
 
 * Writing effective Pull Requests
     
@@ -54,7 +54,7 @@ After my high from contributing to Real Station’s repo waned, I was going thro
 
 *I need more!!!*
 
-I needed my fix fast, so I looked high and low to find a repo that could satisfy my craving, but I couldn’t find anything. Just when all hope was lost, I found Accessibleforall. It’s a great organization where open source contributors from all backgrounds can do things like:
+I needed my fix fast, so I looked high and low to find a repo that could satisfy my craving, but I couldn’t find anything. Just when all hope was lost, I found [Accessibleforall](https://github.com/AccessibleForAll). It’s a great organization where open source contributors from all backgrounds can do things like:
 
 * Working on making their color palette tool more accessible
     
@@ -63,13 +63,13 @@ I needed my fix fast, so I looked high and low to find a repo that could satisfy
 * Send their websites to other members for feedback on their website’s accessibility
     
 
-Since open source projects are a whole new world for me, I decided to KISS (Keep It Simple Stupid) and use my newfound knowledge of Markdown to revise any grammatical errors in the repositories. While I was scrolling through the Resources repo, I noticed that the “Youtube videos (from channels without an accessibility focus)” category were empty, so I raised an issue about this (for coding newbies, it’s basically a fancy developer term for writing a message to a team member.) to one of the main leaders on this repo, created and sent them a Google Doc that contains links for my chosen YouTube videos for their feedback. They loved what I suggested, so I added the links in my Pull Request, and viola:
+Open source projects were still new to me, so I decided to do the KISS method (Keep It Simple Stupid) and use my newfound knowledge of Markdown to revise any grammatical errors in the repositories. While I was scrolling through the Resources repo, I noticed that the “Youtube videos (from channels without an accessibility focus)” category were empty, so I raised an issue about this (for coding newbies, it’s basically a fancy developer term for writing a message to a team member.) to one of the main leaders on this repo, created and sent them a Google Doc that contains links for my chosen YouTube videos for their feedback. They loved what I suggested, so I added the links in my Pull Request, and viola:
 
 ![screenshot of my contribution](https://cdn.hashnode.com/res/hashnode/image/upload/v1672204933838/56c580d7-73fb-4371-b1da-ee23d08f37b9.png align="center")
 
 *It looks so beautiful that I could cry! 🥲*
 
-Ever since I contributed to Accesibleforall’s repo, I find that I improved on the following skills:
+Through this experience, I find that I improved on the following skills:
 
 * Critically analyzing repositories
     
@@ -82,23 +82,23 @@ For a moment, my cravings for open source projects were satisfied, but then the 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672302349748/1fdbddd0-d8af-4ad3-9735-ea857c21bb06.gif align="center")
 
-*Hunger strikes again!*
+*Me need food!*
 
-Contributor at EddieHub October 2022-Present
+## Contributor at EddieHub October 2022-Present
 
 As I was hunting and sniffing for open source projects (well more like scrolling through the web with a mouse) on GitHub until I saw a picture of a nerdy-looking bunny underneath my colleague’s profile:
 
 ![](https://lh3.googleusercontent.com/fqXWg3gPfMYQKxLFwtCGZxuijQhwsVEUmKSC3Re8yioaephFFkUejNVUQzMjBGnhdI4PRbC0hWWkF1NhUYByEhY1z9dbucEVK7P0gtbPMjxDQRa4SKlltaYy-euZFyR13MQrbC2fRoFo0Chd9ErV2fbZ9YS4MkxCPrwDFHmb3PhTf8ipaTt5Mm-vJGm09wZM align="left")
 
-*The bunny looks so cute! 🥰*
+*Hubber looks so cute! 🥰*
 
-So, I clicked on the picture, fell into the rabbit hole, and found a glorious wonderland called EddieHub. It’s a community where open source contributors of all levels come together and help develop [Linkfree](https://linkfree.eddiehub.io/), an app where you can post links to your social media profiles, websites, and track milestones that you experience in your professional life. It’s basically a free and cooler version of Linktree.
+So, I clicked on the picture, fell into the rabbit hole, and found a glorious wonderland called [EddieHub](https://github.com/EddieHubCommunity). It’s a community where open source contributors of all levels come together and work on improving [Linkfree](https://linkfree.eddiehub.io/), an app where you can post links to your social media profiles, websites, and track milestones that you experience in your professional life. It’s a free and cooler version of Linktree.
 
-There are a lot of contributions that I enjoyed making in this community, but if I had to pick one, I would definitely be helping make Linkfree’s website more accessible.
+There are a lot of contributions that I enjoyed making in this community, but if I had to pick one, it would be helping make Linkfree’s website more accessible.
 
-I was just scrolling through the Internet when I noticed a GitHub notification appeared. I clicked on it and saw that one of the members posted an issue where they listed website components from their pull request failed the repo’s accessibility tests and asked for volunteers to help them solve this problem. I love making digital spaces accessible so I volunteer to add an aria-label to the line of code that depicts the GitHub icon on the navigation bar.
+I was just scrolling through the Internet when I noticed a GitHub notification appeared. I clicked on it and saw that one of the members posted an issue where they listed website components from their pull request failed the repo’s accessibility tests and asked for volunteers to help them solve this problem. I love making digital spaces accessible so I volunteer to add an aria label to the line of code that depicts the GitHub icon on the navigation bar.
 
-At first, I struggled with this task due to not being familiar with aria-labels, but I eventually got it after doing a bit of research and receiving help from the other members.
+At first, I struggled with this task due to not being familiar with aria labels, but I eventually got it after doing a bit of research and receiving help from the other members.
 
 ![](https://lh4.googleusercontent.com/1qebEflWLdy2LwoXaCd11EK9wU6j61wRnowE_v-UOjlaeGB-6r3i-vaKbICWRBd-tFo0gFM6qTAMcEdmtJxD6S4L5Vx0PNVZNpMHcBPVfLGmfJwH3tr2arUK5xKkRVNPNeD36mYK4aNYCfBZLtraO0c39fJdhjmgXBcNObQqqhr_OTDOTDFjWZOFs3G4PSOP align="center")
 
@@ -117,7 +117,7 @@ Overall, I enjoy being a part of EddieHub, and I look forward to making more con
 
 ## Conclusion
 
-As cliché as this sounds, teamwork really does make the dream work. I've learned so much from my fellow pack members(or were-coders 😂), and I've even started howling at the moon (figuratively speaking, of course, 😉). Who knew that collaborating could be so much fun? To all of the coders roaming alone in the digital forest, it's time to join the pack. Trust me, you won't regret it.
+As cliché as this sounds, teamwork actually does make the dream work. I've learned so much from my fellow pack members(or were-coders 😂), and I've even started howling at the moon (figuratively speaking, of course, 😉). Who knew that collaborating could be so much fun? To all of the coders roaming alone in the digital forest, it's time to join the pack. If you're struggling to find one, you can join mine by following my blog and connecting with me via [Linkfree](https://linkfree.eddiehub.io/CBID2).
 
 ![](https://lh6.googleusercontent.com/hke2NMdvMfvHnKgOGiFxjwiVjAfNEyRx14BKph25auSWlKk4H7kPuH7m5IKPunGPfgdfUMC77JRpu7NVS_YYN04Vg859-Y9fjdVB9dBLzYTebXkOE1k82oesOnwl_-YAxLsdZZsHWmAJtsXZCIRzXlTmu140CO6uBEJ9kmun17OZ2UbntWkUtZ_0yJl7NUrK align="center")
 
