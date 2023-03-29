@@ -10,7 +10,7 @@ tags: github, opensource, beginner, 2articles1week
 
 ### Welcome Back!!!
 
-Congratulations! You've picked an open source project to contribute to and you're ready to start making a difference(Need a refresher? Check out this and that previous post.)! But before we can celebrate, you'll need to learn about one of the most essential tools in your open source contributor's toolkit: the pull request! So grab a snack and open that Google Doc (or whatever word-processing software you use), because
+Congratulations! You've picked an open source project to contribute to and you're ready to start making a difference(Need a refresher? Check out [this post](https://hashnode.com/post/clciz988g098fbgnv17mjbc6l) . )! But before we can celebrate, you'll need to learn about one of the most essential tools in your open source contributor's toolkit: the pull request! So grab a snack and open that Google Doc (or whatever word-processing software you use), because
 
 ![Willow Smith in a yellow hoodie and a dreadlocked ponytail says "Class is in season" ](https://media.giphy.com/media/dZd0fvvUdMpz5DNW9A/giphy.gif align="center")
 
