@@ -28,13 +28,13 @@ If you're like Johnny Storm (aka Human Torch) and love keeping up with the lates
 
 ## 3\. Bootstrap
 
-If you can adapt to any programming language with no fear like Benjamin Grimm (aka The Thing), then [Bootstrap](https://getbootstrap.com) is for you. All you need to do is copy the activation link to the &lt;head&gt; area of your HTML file, refer to the Docs section to pick any of the components you want, and use it to create anything you want. Want a navigation chart? Boom! Want a snazzy profile card? Bam! 😊 Possibilities are endless! Now there’s only one more tool you need to make your utility kit as awesome as Thor’s Mjolnir(it’s a magical hammer that can catch thunder).
+If you can adapt to any programming language with no fear like Benjamin Grimm (aka The Thing), then [Bootstrap](https://getbootstrap.com) is for you. All you need to do is copy the activation link to the &lt;head&gt; area of your HTML file, refer to the Docs section to pick any of the components you want and use it to create anything you want. Want a navigation chart? Boom! Want a snazzy profile card? Bam! 😊 Possibilities are endless! Now there’s only one more tool you need to make your utility kit as awesome as Thor’s Mjolnir(it’s a magical hammer that can catch thunder).
 
 ![The Thing, a man covered in rock is ready to fight ](https://media.giphy.com/media/21RwHpDY8UbBkK0Ca8/giphy-downsized-large.gif align="center")
 
 ## 4\. Visual Studio Code (VS Code)
 
-If you're looking for a tool that's simple yet reliable, like Susan Storm (aka The Invisible Woman) recommends [Visual Studio Code](https://code.visualstudio.com). It's like having your own trusty sidekick with a utility belt, because not only can you save your code, it's packed with so many extensions that can make your contribution process so much easier. Here are a few of my favorites:
+If you're looking for a tool that's simple yet reliable, Susan Storm (aka The Invisible Woman), I recommend [Visual Studio Code](https://code.visualstudio.com). It's like having your own trusty sidekick with a utility belt, because not only can you save your code, it's packed with so many extensions that can make your contribution process so much easier. Here are a few of my favorites:
 
 * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): This extension makes the PR and IR creation process faster than The Flash high on sugar(Non-comic book fans: The Flash is a superhero who runs fast. He is also the co-founder of the Justice League).
     
