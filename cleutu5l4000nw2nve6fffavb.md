@@ -32,7 +32,7 @@ If you can adapt to any programming language with no fear like Benjamin Grimm (a
 
 ![The Thing, a man covered in rock is ready to fight ](https://media.giphy.com/media/21RwHpDY8UbBkK0Ca8/giphy-downsized-large.gif align="center")
 
-## 4 Visual Studio Code (VS Code)
+## 4\. Visual Studio Code (VS Code)
 
 If you're looking for a tool that's simple yet reliable, like Susan Storm (aka The Invisible Woman) recommends [Visual Studio Code](https://code.visualstudio.com). It's like having your own trusty sidekick with a utility belt, because not only can you save your code, it's packed with so many extensions that can make your contribution process so much easier. Here are a few of my favorites:
 
