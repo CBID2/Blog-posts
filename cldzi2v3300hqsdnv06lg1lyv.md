@@ -8,7 +8,7 @@ tags: devops, 2articles1week, cocodeblogs
 
 ---
 
-## News  
+## News
 
 ![](https://media.giphy.com/media/VvnzGGzspxJuDfIqry/giphy.gif align="center")
 
@@ -19,7 +19,7 @@ This post has been selected as one of the winners of CoCode's February 2023's Bl
 %[https://twitter.com/thecocode/status/1631138224692396033?s=20] 
 
 Thank you CoCode and Hashnode for providing opportunities for tech writers from all walks of life to share their experiences! 😊  
-Now let's back get to our regularly scheduled program!  
+Now let's back get to our regularly scheduled program!
 
 ![Camera crew from Rocko's modern life is counting down](https://media.giphy.com/media/26FeWTM16icjYEmeA/giphy.gif align="center")
 
@@ -29,7 +29,7 @@ Have you ever stumbled upon a DevOps joke on Tech Twitter and thought, "What the
 
 > "DevOps combines development and operations to increase the efficiency, speed, and security of software development and delivery compared to traditional processes."
 
-Basically, DevOps is like that your best friend. The one who was there for you during your breakups and would not hesitate to let you know when you’re being foolish. So, grab a snack and get ready because we're about to show you 5 tips that will boost your DevOps productivity and make you feel like a coding superhero.
+Basically, DevOps is like your best friend. The one who was there for you during your breakups and would not hesitate to let you know when you’re being foolish. So, grab a snack and get ready because we're about to show you 5 tips that will boost your DevOps productivity and make you feel like a coding superhero.
 
 ![Guy gets into a blue Honda with the phrase "Let's Roll!" come in on top.](https://media.giphy.com/media/RleLlzY0MVxY7N5xX7/giphy.gif align="center")
 
