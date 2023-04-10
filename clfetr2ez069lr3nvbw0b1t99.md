@@ -22,7 +22,7 @@ If you picked B, congratulations you win a Ford Edge! 🎊
 
 ![](https://media.giphy.com/media/L2TXrdIfAJkIQL91GQ/giphy-downsized-large.gif align="center")
 
-Ooh, sorry I just remembered that I do not have the funds to buy a Ford Edge. 😔 No worries, I can share my story on how I built a survey form from scratch, so grab a snack, your favorite drink, and enjoy the show!
+Ooh, sorry I just remembered that I do not have the funds to buy you a Ford Edge. 😔 No worries, I can share my story on how I built a survey form from scratch, so grab a snack, your favorite drink, and enjoy the show!
 
 ![A clock saying story time. ](https://media.giphy.com/media/XrwenGNux1GpYu25Qp/giphy.gif align="center")
 
