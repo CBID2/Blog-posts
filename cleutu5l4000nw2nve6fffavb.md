@@ -28,7 +28,7 @@ If you're like Johnny Storm (aka Human Torch) and love keeping up with the lates
 
 ## 3\. Bootstrap
 
-If you can adapt to any programming language with no fear like Benjamin Grimm (aka The Thing), then [Bootstrap](https://getbootstrap.com) is for you. All you need to do is copy the activation link to the &lt;head&gt; area of your HTML file, refer to the Docs section to pick any of the components you want and use it to create anything you want. Want a navigation chart? Boom! Want a snazzy profile card? Bam! 😊 Possibilities are endless! Now there’s only one more tool you need to make your utility kit as awesome as Thor’s Mjolnir(it’s a magical hammer that can catch thunder).
+If you can adapt to any programming language with no fear like Benjamin Grimm (aka The Thing), then [Bootstrap](https://getbootstrap.com) is for you. All you need to do is copy and paste the activation link into the &lt;head&gt; area of your HTML file, refer to the Docs section to pick any of the components you want and use it to create anything you want. Want a navigation chart? Boom! Want a snazzy profile card? Bam! 😊 Possibilities are endless! Now there’s only one more tool you need to make your utility kit as awesome as Thor’s Mjolnir(it’s a magical hammer that can catch thunder).
 
 ![The Thing, a man covered in rock is ready to fight ](https://media.giphy.com/media/21RwHpDY8UbBkK0Ca8/giphy-downsized-large.gif align="center")
 
