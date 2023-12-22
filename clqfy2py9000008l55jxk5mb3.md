@@ -10,7 +10,7 @@ tags: reflection, technical-writing-1, wemakedevs
 
 ## An Unexpected Surprise
 
-I was doing my usual GitHub scroll when a ping from LinkedIn grabbed my attention. It was Quincy Larson sharing his list of [Top Open Source Contributors for 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/) on freeCodeCamp News. As I casually flicked through the article, something in the **Publication Top Contributors'** section jumped out at me:
+I was doing my usual scrolling on GitHub when a ping from LinkedIn grabbed my attention. It was Quincy Larson sharing his list of [Top Open Source Contributors for 2023](https://www.freecodecamp.org/news/top-open-source-contributors-2023/) on freeCodeCamp News. As I casually flicked through the article, something in the **Publication Top Contributors'** section jumped out at me:
 
 ![Screenshot of the Publication Contributor's section where my name is circled in red.](https://cdn.hashnode.com/res/hashnode/image/upload/v1703203154196/f3eba18c-3bd3-406f-9c89-0c61dba512b3.png align="center")
 
@@ -25,7 +25,7 @@ When I began penning tech blog posts, I aimed for quirky yet SEO-friendly titles
 * [Save Your Head and Your Data: 3 Do's and Don'ts for Backing Up Your Devices](https://chrissycodes.hashnode.dev/save-your-head-and-your-data-3-dos-and-donts-for-backing-up-your-devices)
     
 
-But when I started writing for freeCodeCamp, I discovered that straightforward "How To" titles are just as powerful. For example, I used the title [“How to Collaborate on Pull Requests for Beginners**”**](https://dev.to/opensauced/how-to-collaborate-on-pull-requests-for-beginners-434a) for an article where I provide tips on creating collaborative Pull Requests, and this happened(shout-out to @[Bekah Hawrot Weigel](@BekahHW) for being my inspiration! 😊):
+But when I started writing for freeCodeCamp, I discovered that straightforward "How To" titles are just as powerful. For example, I used the title [“How to Collaborate on Pull Requests for Beginners\*\*”\*\*](https://dev.to/opensauced/how-to-collaborate-on-pull-requests-for-beginners-434a) for an article where I provide tips on creating collaborative Pull Requests, and this happened(shout-out to @[Bekah Hawrot Weigel](@BekahHW) for being my inspiration! 😊):
 
 ![Screenshot of the stats of my blog. Its 10617.](https://cdn.hashnode.com/res/hashnode/image/upload/v1703204442035/5c3dd4a8-d957-4f62-9584-540b30a73afd.png align="center")
 
@@ -50,7 +50,6 @@ As seen in those articles, I started embedding project links, giving readers a w
 
 In the past, I’d title my last section “Conclusion.” But an editor pointed out it made posts less lively. Since then, I've simply started my conclusion. It’s akin to a movie revealing its main plot in the trailer—some things are better left a bit subtle.
 
-  
 It's been an amazing journey writing for freeCodeCamp, and I can't wait to see what I'll write next. If you’re looking to level up your tech writing skills and be part of the community, I highly recommend reading [Kealan Par’s guide on how to write a winning application](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/). And if you need more application tips or just want to connect and read my other content, find me on [BioDrop](https://www.biodrop.io/CBID2). I’m glad to assist! 😊👍🏾
 
 ## Credits
