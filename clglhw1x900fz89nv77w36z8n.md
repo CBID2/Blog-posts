@@ -10,7 +10,7 @@ tags: reflection, cocodeblogs
 
 ## Wow!
 
-If I had to pick a quote that best summarizes my tech journey in mid-2023, it would be “Time flies by when you’re having fun”. I have learned and grown so much in my coding and open source journey since the year started that I just realized that we’re halfway through 2023. Now before I started getting misty, grab a snack, or your favorite drink, and join me as we reminisce about my triumphs, losses, and future goals.  
+If I had to pick a quote that best summarizes my tech journey in mid-2023, it would be “Time flies by when you’re having fun”. I have learned and grown so much in my coding and open source journey since the year started that I just realized that we’re halfway through 2023. Now before I started getting misty, grab a snack, or your favorite drink, and join me as we reminisce about my triumphs, losses, and future goals.
 
 ![Black and white film countdown](https://media.giphy.com/media/AITymLVsG2v2U/giphy.gif align="center")
 
@@ -57,6 +57,8 @@ As 2023 continues, here are some goals that I would like to achieve by the end o
 2. Explore maintaining software documentation via open source projects
     
 3. Have a tech writing portfolio
+    
+4. Do paid tech writing gigs
     
 
 I know there’ll be more roadblocks coming with these goals but I’m ready to face them head-on. I’m confident that I can achieve my goals with hard work, dedication, and a positive attitude.
