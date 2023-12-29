@@ -36,7 +36,7 @@ Sometimes, despite our best efforts, miscommunications occur. After I worked on 
 
 ## Not too Bad Overall
 
-So, there you have it, three lessons I have learned from my first technical writing gig. It was an incredible experience, and I'm eager to do more of them in the future. If you're hungry for more opportunities in the tech writing realm, I recommend reading @[Rizel Scarlett](@blackgirlbytes) s'guide on writing technical blog posts:
+So, there you have it, three lessons I have learned from my first technical writing gig. It was an incredible experience, and I'm eager to do more of them in the future. If you're hungry for more opportunities in the tech writing realm, I recommend reading @[Rizel Scarlett](@blackgirlbytes)’s guide on writing technical blog posts:
 
 %[https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464] 
 
