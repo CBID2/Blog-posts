@@ -9,9 +9,17 @@ tags: opensource, reflection, technical-writing-1
 
 ---
 
+## Good News!
+
+Hey everyone! :) Before I share my story, I have good news! 🙂 This post is officially one of the Trending Articles of the Week! :)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703982709695/a08989f3-60e9-40bf-a43b-8ec4713b378a.png align="center")
+
+Thank you so much for your support! 🙂 Now, let's get on with the show! 🙂
+
 ## The Power of Speaking Out Your Goals
 
-Hey there, fellow tech enthusiasts and aspiring technical writers! 🙂 Remember when I mentioned in my ["So Far So Good" post](https://chrissycodes.hashnode.dev/so-far-so-good-reflections-on-my-tech-journey) about aiming to land a paid tech writing gig by the end of the year? Well, guess what? I did it! 🎉 I had the incredible opportunity to work as a paid reviewer for a non-profit organization's open-source project tutorials. Imagine getting paid to review open source documentation. Sigh, it’s a dream come true! 🥹 As I sit and reflect on this achievement, I want to share three important lessons I have learned from my experience. Why? To inspire you of course! 🙂 Let's go! 🙂
+Remember when I mentioned in my ["So Far So Good" post](https://chrissycodes.hashnode.dev/so-far-so-good-reflections-on-my-tech-journey) about aiming to land a paid tech writing gig by the end of the year? Well, guess what? I did it! 🎉 I had the incredible opportunity to work as a paid reviewer for a non-profit organization's open-source project tutorials. Imagine getting paid to review open source documentation. Sigh, it’s a dream come true! 🥹 As I sit and reflect on this achievement, I want to share three important lessons I have learned from my experience. Why? To inspire you of course! 🙂 Let's go! 🙂
 
 ## Lesson 1: Research About the Project/Organization
 
