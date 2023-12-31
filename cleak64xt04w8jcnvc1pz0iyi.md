@@ -83,7 +83,16 @@ Congratulations, you're now a pull request pro! But before you start PR-bombing 
 
 ### Conclusion
 
-Congratulations, you're now a pull request pro, woohoo! Remember, making contributions to open source projects can be a fulfilling and rewarding experience. If you need a coding buddy or more inspiration, follow me on Hashnode and my other socials on [Linkfree](https://linkfree.eddiehub.io/CBID2). May your contributions be bug-free and legendary.
+Congrats, you made it to the end of the article! :) Now, go put that knowledge into practice by contributing to these three projects:
+
+* [LinksHub](https://github.com/rupali-codes/LinksHub)
+    
+* [OpenSauced/guestbook](https://github.com/open-sauced/guestbook)
+    
+* [OpenSauced/pizza-verse](https://github.com/open-sauced/pizza-verse)
+    
+
+If you need more tips, follow me on Hashnode and check out my other links on [BioDrop](https://www.biodrop.io/CBID2).
 
 ![Looney Tunes ending: "That's All Folks"](https://64.media.tumblr.com/f5436f265630043b4163b3b796436229/tumblr_nerv5zwzCr1sgl0ajo1_500.gifv align="center")
 
