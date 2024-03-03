@@ -65,8 +65,7 @@ secondary: "#a78bfa",
 
 Now before I could break out the vanilla ice cream and celebrate, I remembered that there was another part of the challenge that needs solving.
 
-##   
-Level 2: Putting a label on it
+## Level 2: Putting a label on it
 
 The next thing I had to is add a `label` attribute that’s in the dropdown menu since it’s enclosed in a `<form>` element. At first, I was not sure what class name to give it. I wanted use `dropdown` but it was already used. After doing some brainstorming, I decided to keep it simple and go with `themeToogle` since that’s the button’s feature(no pun intended). Here it is:
 
@@ -86,7 +85,7 @@ The next thing I had to is add a `label` attribute that’s in the dropdown menu
         >
 ```
 
-When I tested this code for accessibility, I got these results:  
+When I tested this code for accessibility, I got these results:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708106230568/f855d66f-4783-4373-a830-c62682d57169.png align="center")
 
