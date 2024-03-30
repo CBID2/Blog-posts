@@ -8,7 +8,7 @@ tags: reflection, womenwhotech, iwd2024
 
 ---
 
-## Let’s Start With A Question
+## Let’s start with a question
 
 What does Kamala Khan from *Ms. Marvel*
 
@@ -88,6 +88,6 @@ Flying Captain Marvel GIF by [Morbius](https://giphy.com/gifs/marvel-captain-pzA
 
 Wonder Woman dianaprince GIF by [DC Comics](https://giphy.com/gifs/dccomics-dc-diana-prince-justiceleagueaction-S6qDIAn8xc2OHGn6N8)
 
-"[Women In Tech - 92](https://www.flickr.com/photos/136629440@N06/21909339284)[" by](https://www.flickr.com/photos/136629440@N06/21909339284) [wocintechchat.com](http://wocintechchat.com) [is licensed unde](https://www.flickr.com/photos/136629440@N06)r [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse)[.](https://creativecommons.org/licenses/by/2.0/?ref=openverse)
+"[Women In Tech - 92" by](https://www.flickr.com/photos/136629440@N06/21909339284)[wocintechchat.com](http://wocintechchat.com)[is licensed unde](https://www.flickr.com/photos/136629440@N06)r [CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/?ref=openverse)
 
 Video Game Wow by [Square Enix](https://giphy.com/gifs/squareenix-marvel-avengers-ms-JrMw8slLfKJvq6RhTQ)
