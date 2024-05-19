@@ -16,10 +16,7 @@ Hey, welcome back! You have survived the “Pick the open-source projects of you
 
 Whoa Whoa! We’re not out of the woods just yet! There’s just one tiny little obstacle standing in your way: you don't know how to code.
 
-![Spongebob sweats and blinks nervously ](https://media.giphy.com/media/xUPJPzcdlbvaFUrF7y/giphy.gif align="center")
-
-1. Before you start freaking out. I just want to say this. You don’t have to be a coding genius to contribute. Trust me, I use to think this way too until I started contributing. There are countless ways to make meaningful contributions to an open source project beyond just writing code. So step away from your computer (for the moment) and let's explore the many ways you can contribute to your favorite open source project without code.
-    
+Before you start freaking out. I just want to say this. You don’t have to be a coding genius to contribute. Trust me, I use to think this way too until I started contributing. There are countless ways to make meaningful contributions to an open source project beyond just writing code. So step away from your computer (for the moment) and let's explore the many ways you can contribute to your favorite open source project without code.
 
 ![Lizzo saying "Let's Go!" with confidence](https://media.giphy.com/media/XDSBGwnjvTpoZGJhxY/giphy.gif align="left")
 
